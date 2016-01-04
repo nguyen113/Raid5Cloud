@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+public/bridges
+node_modules/
+public/bower_components/
+.sass-cache/
+.tmp/
+dist/
+**/.DS_Store

@@ -1,0 +1,898 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"return",
+				"returnData"
+			],
+			[
+				"retur",
+				"returnData"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"exe",
+				"executeRequest"
+			],
+			[
+				"file",
+				"fileDownloader"
+			],
+			[
+				"pro",
+				"prototype	(filenavigator.js)"
+			],
+			[
+				"fileName",
+				"fileName	(filenavigator.js)"
+			],
+			[
+				"filePros",
+				"fileProcessor"
+			],
+			[
+				"filePro",
+				"filePromise"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"de",
+				"deferredHandler"
+			],
+			[
+				"raw",
+				"rawFile"
+			],
+			[
+				"res",
+				"result	(main.js)"
+			],
+			[
+				"filedow",
+				"fileDownloader"
+			],
+			[
+				"curr",
+				"currentState"
+			],
+			[
+				"load",
+				"loadFile	(drive.js)"
+			],
+			[
+				"uploa",
+				"uploadToCloud"
+			],
+			[
+				"filem",
+				"fileManagerConfig"
+			],
+			[
+				"fine",
+				"fileManagerConfig"
+			],
+			[
+				"client",
+				"clientId"
+			],
+			[
+				"google",
+				"googleAPI"
+			],
+			[
+				"han",
+				"handleAuthResult"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"num",
+				"numArr1"
+			],
+			[
+				"string",
+				"stringArrays"
+			],
+			[
+				"str",
+				"string2"
+			],
+			[
+				"strin",
+				"string1"
+			],
+			[
+				"xor",
+				"xor3Strings"
+			],
+			[
+				"xor2S",
+				"xor2Strings"
+			],
+			[
+				"numA",
+				"numArrResult"
+			],
+			[
+				"max",
+				"maxLength"
+			],
+			[
+				"len",
+				"length	(fileuploader.js)"
+			],
+			[
+				"outp",
+				"outputBinary"
+			],
+			[
+				"from",
+				"from64to10	(convert.js)"
+			],
+			[
+				"xo",
+				"xor2Result"
+			],
+			[
+				"enc",
+				"encode"
+			],
+			[
+				"enco",
+				"encoded"
+			],
+			[
+				"data",
+				"dataURI"
+			],
+			[
+				"byte",
+				"byteStringFull"
+			],
+			[
+				"Onload",
+				"OnloadHandler"
+			],
+			[
+				"by",
+				"byteStringFull"
+			],
+			[
+				"save",
+				"saveFileToDb"
+			],
+			[
+				"file_",
+				"file_type	(file.js)"
+			],
+			[
+				"fileOb",
+				"fileObj"
+			],
+			[
+				"download",
+				"downloadFile"
+			],
+			[
+				"fileO",
+				"fileObject1"
+			],
+			[
+				"send",
+				"sendFileInfo"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"func",
+				"function 	Language Construct"
+			],
+			[
+				"Song",
+				"SongsController@index"
+			],
+			[
+				"in",
+				"index	(SongsController.php)"
+			],
+			[
+				"for",
+				"foreach	blade-foreach"
+			],
+			[
+				"sec",
+				"section	Tag"
+			],
+			[
+				"ex",
+				"ext	blade-extends"
+			],
+			[
+				"New",
+				"NewClass	(Controller.php)"
+			],
+			[
+				"fak",
+				"Faker"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/routes/index.js",
+			"settings":
+			{
+				"buffer_size": 2482,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/js/services/fileuploader.js",
+			"settings":
+			{
+				"buffer_size": 11212,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 742,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/js/entities/item.js",
+			"settings":
+			{
+				"buffer_size": 8923,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/providers/config.js",
+			"settings":
+			{
+				"buffer_size": 2274,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"snippet",
+				"Snippet: <?php echo $this->… ?>"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"d",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"DocBlockr",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/09520/Raid5Cloud",
+		"/C/Users/09520/Raid5Cloud/app",
+		"/C/Users/09520/Raid5Cloud/app/models",
+		"/C/Users/09520/Raid5Cloud/app/routes",
+		"/C/Users/09520/Raid5Cloud/public",
+		"/C/Users/09520/Raid5Cloud/public/js",
+		"/C/Users/09520/Raid5Cloud/public/js/controllers",
+		"/C/Users/09520/Raid5Cloud/public/js/entities",
+		"/C/Users/09520/Raid5Cloud/public/js/filters",
+		"/C/Users/09520/Raid5Cloud/public/js/providers",
+		"/C/Users/09520/Raid5Cloud/public/js/services"
+	],
+	"file_history":
+	[
+		"/C/Users/09520/Raid5Cloud/public/js/services/filenavigator.js",
+		"/C/Users/09520/Raid5Cloud/app/models/file.js",
+		"/C/Users/09520/Raid5Cloud/public/js/controllers/main.js",
+		"/C/Users/09520/Raid5Cloud/public/js/services/filedownloader.js",
+		"/C/Users/09520/Raid5Cloud/public/js/services/fileuploader.js",
+		"/C/Users/09520/Raid5Cloud/app/routes/index.js",
+		"/C/Users/09520/Raid5Cloud/public/js/services/login.js",
+		"/C/Users/09520/Raid5Cloud/public/js/services/gapi.js",
+		"/C/Users/09520/Raid5Cloud/public/js/services/drive.js",
+		"/C/Users/09520/Raid5Cloud/public/js/services/fileprocessor.js",
+		"/C/Users/09520/Raid5Cloud/public/js/entities/item.js",
+		"/C/Users/09520/Raid5Cloud/public/index.html",
+		"/C/Users/09520/Raid5Cloud/public/templates/item-toolbar.html",
+		"/C/Users/09520/Raid5Cloud/public/js/controllers/main.controller.js",
+		"/C/Users/09520/Raid5Cloud/public/js/controllers/login-controller.js",
+		"/C/Users/09520/Raid5Cloud/public/js/providers/config.js",
+		"/C/Users/09520/Raid5Cloud/public/bower_components/angular-filemanager/src/js/entities/item.js",
+		"/C/Users/09520/Raid5Cloud/public/templates/navbar.html",
+		"/C/Users/09520/Raid5Cloud/public/js/controllers/drive-controller.js",
+		"/C/Users/09520/Raid5Cloud/public/templates/main-icons.html",
+		"/C/Users/09520/Raid5Cloud/public/js/app.js",
+		"/C/Users/09520/Raid5Cloud/public/templates/main.html",
+		"/C/Users/09520/Raid5Cloud/bower.json",
+		"/C/Users/09520/web-quickeditor-master/src/index.html",
+		"/C/Users/09520/web-quickeditor-master/src/app/main/main.controller.js",
+		"/C/Users/09520/web-quickeditor-master/src/components/login/login.controller.js",
+		"/C/Users/09520/web-quickeditor-master/src/components/login/login.service.js",
+		"/C/Users/09520/web-quickeditor-master/src/components/gapi/gapi.js",
+		"/C/Users/09520/web-quickeditor-master/src/app/index.js",
+		"/C/Users/09520/web-quickeditor-master/src/app/main/main.html",
+		"/C/xampp/htdocs/ngDrive-demo-master/demo_app/appscripts/app.js",
+		"/C/Users/09520/Raid5Cloud/public/js/services/googleapi.js",
+		"/C/Users/09520/Raid5Cloud/public/js/providers/translations.js",
+		"/C/xampp/htdocs/test.html",
+		"/C/Users/09520/Raid5Cloud/test.html",
+		"/C/Users/09520/Raid5Cloud/public/js/filters/filters.js",
+		"/C/Users/09520/Raid5Cloud/server.js",
+		"/C/Users/09520/Raid5Cloud/app/external/convert.js",
+		"/C/Users/09520/Raid5Cloud/app/external/xor.js",
+		"/C/Users/09520/Raid5Cloud/public/templates/main-table.html",
+		"/C/Users/09520/Raid5Cloud/config/database.js",
+		"/C/data/mongod.cfg",
+		"/C/Program Files/MongoDB/Server/3.2/bin/mongod.cfg",
+		"/C/Users/09520/Raid5Cloud/public/js/entities/chmod.js",
+		"/C/Users/09520/Raid5Cloud/public/js/controllers/selector-controller.js",
+		"/C/Users/09520/Raid5Cloud/app/routes/file.js",
+		"/C/Users/09520/Raid5Cloud/package.json",
+		"/C/Program Files/MongoDB/Server/3.2/bin/mongod.exe",
+		"/C/Users/09520/Raid5Cloud/public/bridges/php/handler.php",
+		"/C/xampp/htdocs/Rai5/src/js/services/fileuploader.js",
+		"/C/xampp/htdocs/angular-filemanager-master/src/js/services/fileuploader.js",
+		"/C/xampp/htdocs/base64-xor-master/index.hmtl",
+		"/C/xampp/htdocs/angular-filemanager-master/src/js/controllers/main.js",
+		"/C/xampp/htdocs/angular-filemanager-master/index.html",
+		"/C/xampp/htdocs/angular-filemanager-master/src/js/services/fileprocessor.js",
+		"/C/xampp/htdocs/angular-filemanager-master/src/js/services/test.html",
+		"/C/xampp/htdocs/angular-filemanager-master/bridges/php/handler.php",
+		"/C/xampp/htdocs/angular-filemanager-master/src/js/providers/config.js",
+		"/C/xampp/htdocs/angular-filemanager-master/bower_components/angular-filemanager/src/js/services/fileuploader.js",
+		"/C/xampp/htdocs/angular-filemanager-master/bower_components/angular-filemanager/src/js/providers/config.js",
+		"/C/xampp/htdocs/angular-filemanager-master/bower_components/angular-filemanager/src/js/app.js",
+		"/C/xampp/htdocs/angular-filemanager-master/bower_components/angular-filemanager/index.html",
+		"/C/xampp/htdocs/angular-filemanager-master/bower_components/angular-filemanager/src/js/controllers/main.js",
+		"/C/xampp/htdocs/angular-filemanager-master/src/js/app.js",
+		"/C/xampp/htdocs/angular-filemanager-master/src/js/controllers/selector-controller.js",
+		"/C/xampp/htdocs/giasunhatminh/resources/views/master.blade.php",
+		"/C/xampp/htdocs/giasunhatminh/package.json",
+		"/C/xampp/htdocs/test/wp-config.php",
+		"/C/xampp/htdocs/test/wp-settings.php",
+		"/C/xampp/htdocs/test/wp-load.php",
+		"/C/xampp/htdocs/angular-filemanager-master/dist/angular-filemanager.min.js",
+		"/C/xampp/htdocs/angular-filemanager-master/bower_components/angular-filemanager/bridges/php/handler.php",
+		"/C/xampp/htdocs/angular-filemanager-master/bridges/java/AngularFileManagerServlet.java",
+		"/C/Users/09520/Downloads/Compressed/SinhVienIT.Net---Sothink SWF Decompiler 7.1 Full/Sothink SWF Decompiler 7.1 Full/Setup.exe",
+		"/C/Users/09520/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/09520/AppData/Local/Temp/fz3temp-1/widget.php",
+		"/C/xampp/htdocs/giasunhatminh/gulpfile.js",
+		"/C/xampp/htdocs/giasunhatminh/resources/assets/less/app.less",
+		"/C/xampp/htdocs/giasunhatminh/app/Http/Controllers/SongsController.php",
+		"/C/xampp/htdocs/giasunhatminh/.bowerrc",
+		"/C/xampp/htdocs/giasunhatminh/bower.json",
+		"/C/xampp/htdocs/giasunhatminh/resources/assets/vendor/bootstrap/js/alert.js",
+		"/C/xampp/htdocs/tinhocnhatminh/config/app.php",
+		"/C/xampp/htdocs/tinhocnhatminh/app/Http/Controllers/SongsController.php",
+		"/C/xampp/htdocs/tinhocnhatminh/resources/views/songs/show.blade.php",
+		"/C/xampp/htdocs/tinhocnhatminh/resources/views/master.blade.php",
+		"/C/xampp/htdocs/tinhocnhatminh/public/css/style.css",
+		"/C/xampp/htdocs/tinhocnhatminh/composer.json",
+		"/C/xampp/htdocs/tinhocnhatminh/resources/assets/sass/app.scss",
+		"/C/xampp/htdocs/tinhocnhatminh/gulpfile.js",
+		"/C/xampp/htdocs/tinhocnhatminh/.bowerrc",
+		"/C/xampp/htdocs/tinhocnhatminh/bower.json",
+		"/C/xampp/htdocs/tinhocnhatminh/bootstrap/app.php",
+		"/C/xampp/htdocs/tinhocnhatminh/app/Console/Kernel.php",
+		"/C/xampp/htdocs/tinhocnhatminh/config/auth.php",
+		"/C/xampp/htdocs/tinhocnhatminh/config/services.php",
+		"/C/xampp/htdocs/tinhocnhatminh/resources/views/songs/index.blade.php",
+		"/C/xampp/htdocs/tinhocnhatminh/database/database.sqlite",
+		"/C/xampp/htdocs/tinhocnhatminh/database/migrations/2015_11_02_161638_create_songs_table.php",
+		"/C/xampp/htdocs/tinhocnhatminh/app/Http/routes.php",
+		"/C/xampp/htdocs/tinhocnhatminh/resources/views/pages/about.blade.php",
+		"/C/xampp/htdocs/tinhocnhatminh/config/database.php",
+		"/C/xampp/htdocs/tinhocnhatminh/storage/database.sqlite",
+		"/C/xampp/htdocs/tinhocnhatminh/app/Http/Controllers/PagesController.php",
+		"/C/xampp/htdocs/tinhocnhatminh/resources/views/pages/index.blade.php",
+		"/C/xampp/htdocs/tinhocnhatminh/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/tinhocnhatminh/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/tinhocnhatminh/config/view.php",
+		"/C/Users/09520/Desktop/testfaker/index.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\09520\\Raid5Cloud\\public\\js",
+			"C:\\Users\\09520\\Raid5Cloud\\public\\bower_components\\angular-filemanager\\src\\js",
+			"C:\\Users\\09520\\Raid5Cloud\\public\\templates",
+			"C:\\Users\\09520\\Raid5Cloud\\public\\js",
+			"C:\\Users\\09520\\Raid5Cloud\\public\\templates",
+			"C:\\Users\\09520\\Raid5Cloud\\public\\js\\controllers",
+			"C:\\Users\\09520\\Raid5Cloud\\public\\templates",
+			"C:\\Users\\09520\\Raid5Cloud\\public\\js",
+			"C:\\Users\\09520\\Raid5Cloud\\public",
+			"C:\\Users\\09520\\Raid5Cloud\\public\\js",
+			"C:\\Users\\09520\\Raid5Cloud\\public\\templates",
+			"C:\\Users\\09520\\Raid5Cloud\\public\\css",
+			"C:\\Users\\09520\\Raid5Cloud\\public\\js",
+			"C:\\Users\\09520\\Raid5Cloud\\public",
+			"C:\\Users\\09520\\Raid5Cloud\\public\\templates",
+			"C:\\Users\\09520\\Raid5Cloud\\public\\js",
+			"C:\\Users\\09520\\Raid5Cloud\\public",
+			"C:\\Users\\09520\\Raid5Cloud",
+			"C:\\Users\\09520\\Raid5Cloud\\public\\js",
+			"C:\\Users\\09520\\Raid5Cloud\\public\\templates",
+			"C:\\Users\\09520\\Raid5Cloud\\public\\js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"saveFileToDb",
+			"requesting",
+			"setApiKey",
+			"login",
+			"isTokenValid ",
+			"gapi",
+			"checkAuth",
+			"message",
+			"download",
+			"inprocess",
+			"download",
+			"modal",
+			"list",
+			"fileNavigator",
+			"list",
+			"deferredHandler",
+			"result",
+			"delete",
+			"download",
+			"downloadFileUrl",
+			"download",
+			"navbar-brand",
+			"saveFileToDb",
+			"fileObj",
+			"ModalFileManagerCtrl",
+			"    \n",
+			"loading",
+			"init_gapi",
+			"fileManagerConfigtplPath",
+			"routeParams",
+			"fileManagerConfig",
+			"login",
+			"load",
+			"renameFile",
+			"ctrl",
+			"ngRoute",
+			"ModalFileManagerCtrl",
+			"FileManagerCtrl",
+			"openImagePreview",
+			"touch",
+			"delete",
+			"uploadfile",
+			"newfolder",
+			"ngCookies",
+			"registerElement",
+			"angular-filemanager",
+			"Navigator",
+			"string2Bin: function (str) {\n    var result = [];\n    for (var i = 0; i < str.length; i++) {\n      result.push(str.charCodeAt(i));\n    }\n    return result;\n  },\n\n  bin2String: function (array) {\n    return String.fromCharCode.apply(String, array);\n  }",
+			"filter",
+			"formatDate",
+			"delete",
+			"glyphicon-edit",
+			"result",
+			"getApiParam",
+			"listFilesRaw",
+			"FileManager",
+			"oFtp",
+			"item",
+			"fileList",
+			"no_files_in_folder",
+			"no_files_in_folder(function(angular) {\nno_files_in_folder(function(angular) {\nno_files_in_folder",
+			"no_files_in_folder(function(angular) {\nno_files_in_folder",
+			"no_files_in_folder",
+			"deferred",
+			"resolve",
+			"getFile",
+			"fileManagerConfig",
+			"tplPath",
+			"fileManagerConfig",
+			"string",
+			"readAsBinaryString",
+			"uploadFiles()",
+			"uploadfile",
+			"#uploadfile",
+			"use",
+			"user",
+			"giasunhanvan.com"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Processor",
+			"Processor1",
+			"giasunhatminh.net"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/routes/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1048,
+								1048
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 168.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/js/services/fileuploader.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10361,
+								10361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3444.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								658,
+								658
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 210.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/js/entities/item.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 8923,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5921,
+								5930
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1722.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/js/providers/config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "projectRaid5.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"show",
+				"resources\\views\\songs\\show.blade.php"
+			],
+			[
+				"index",
+				"resources\\views\\songs\\index.blade.php"
+			],
+			[
+				"song",
+				"app\\Http\\Controllers\\SongsController.php"
+			],
+			[
+				"so",
+				"app\\Http\\Controllers\\SongsController.php"
+			],
+			[
+				"",
+				"resources\\views\\pages\\index.blade.php"
+			],
+			[
+				"pages",
+				"app\\Http\\Controllers\\PagesController.php"
+			],
+			[
+				"index.bl",
+				"resources\\views\\pages\\index.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\09520\\web-quickeditor-master\\webquickeditor.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
