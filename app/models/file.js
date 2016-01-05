@@ -31,23 +31,27 @@ var FileSchema   = new Schema({
     path: {type: String, default: "/"},
     part0: {
     fileId: String,
-    content:  String,
-    size: String
+    title:  String,
+    size: String,
+    modifiedDate: Date
   	},
   	part1: {
     fileId: String,
-    content:  String,
-    size: String
+    title:  String,
+    size: String,
+    modifiedDate: Date
   	},
   	part2: {
     fileId: String,
-    content:  String,
-    size: String
+    title:  String,
+    size: String,
+    modifiedDate: Date
   	},
   	part3: {
     fileId: String,
-    content:  String,
-    size: String
+    title:  String,
+    size: String,
+    modifiedDate: Date
   	}
 });
 

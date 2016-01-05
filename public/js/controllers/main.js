@@ -77,10 +77,25 @@
         };
 
         $scope.uploadFiles = function() {
-
-                
+            $scope.modal('uploadfile', false);
+            //// loop for files list:
+            // 1. Save file info to DB 
+            // => return fileID
+            // 
+            // 2. Convert file to based64 
+            // => return full file content
+            // 
+            // 3. Create 4th part and split array 
+            // => return array with 4 parts
+            // 
+            // 4. Upload 4 parts to google drive 
+            // => return part id, name, size, modified date
+            // 
+            // 5. Save parts information to DB
+            // => Done
+            // 
             $scope.fileUploader.upload($scope.uploadFileList, $scope.user).then(function(){
-                $scope.modal('uploadfile', true);
+
                 $scope.fileNavigator.refresh($scope.user);
             });
         };
